@@ -1,2 +1,2 @@
 # Major_Project
-MLP model to help subscription based companies
+Using different classification models to minimise the churn rate of users of subscription based comapny.
